@@ -1,4 +1,4 @@
-
+Enhance BetterTouchTool for macOS with professional Addon for BetterTouchTool for macOS - clipboard-manager and memory-optimization, the #1 addon. Includes clipboard-manager and
 
 
 
